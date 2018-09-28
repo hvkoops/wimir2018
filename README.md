@@ -1,2 +1,2 @@
 # wimir2018
-Modeling Repetition and Variarion Project at the WiMIR 1st Annual Workshop
+This repository holds information on the Modeling Repetition and Variarion Project at the WiMIR 1st Annual Workshop
