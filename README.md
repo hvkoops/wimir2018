@@ -2,7 +2,7 @@
 ![ISMIR](https://dakini-pco.com/img/articles_a/1513262327.ismir2018logo_black_lon.smallg.jpg "ISMIR 2018 Logo")
 
 # wimir2018 - Modeling Repetition and Variation
-This repository holds information on the [Modeling Repetition and Variation Project](https://wimir.wordpress.com/2018/07/31/wimir-workshop-2018-project-guides/) at the [WiMIR 1st Annual Workshop](https://wimir.wordpress.com/wimir-workshop/) at the [19th International Society for Music Information Retrieval Conference](http://ismir2018.ircam.fr/)
+This repository holds information on the [Modeling Repetition and Variation Project](https://wimir.wordpress.com/2018/07/31/wimir-workshop-2018-project-guides/) at the [WiMIR 1st Annual Workshop](https://wimir.wordpress.com/wimir-workshop/) at the [19th International Society for Music Information Retrieval Conference](http://ismir2018.ircam.fr/) which was lead by [Anja Volk](http://www.staff.science.uu.nl/~fleis102/), [Hendrik Vincent Koops](https://github.com/hvkoops) and [Iris Yuping Ren](https://sites.google.com/view/iyr/home).
 
 Repetition and variation are fundamental principles in music. Accordingly, many MIR tasks are based on automatically detecting repeating units in music, such as repeating time intervals that establish the beat, repeating segments in pop songs that establish the chorus, or repeating patterns that constitute the most characteristic part of a composition. In many cases, repetitions are not literal, but subject to slight variations, which introduces the challenge as to what types of variation of a musical unit can be reasonably considered as a re-occurrence of this unit. 
 
@@ -11,9 +11,9 @@ In this project we look into the computational modelling of rhythmic, melodic, a
 In this workshop we discuss different strategies of instructing annotators and undertake case studies on annotating patterns and chords on small data sets. We compare different annotations, jointly reflect on the rationales regarding these annotations, develop novel ideas on how to setup annotation tasks and discuss the implications for the computational modelling of these musical units for MIR.
 
 # Participants
-- Anja Volk (Utrecht University)
-- Hendrik Vincent Koops (Utrecht University)
-- Iris Yuping Ren (Utrecht University)
+- Anja Volk (Utrecht University) - Project Guide
+- Hendrik Vincent Koops (Utrecht University) - Project Guide
+- Iris Yuping Ren (Utrecht University) - Project Guide
 - Juan Pablo Bello (New York University)
 - Eric Nichols (Microsoft)
 - Jaehun Kim (Delft University)
