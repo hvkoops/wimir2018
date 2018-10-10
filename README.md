@@ -23,7 +23,7 @@ In this workshop we discuss different strategies of instructing annotators and u
 
 # Presentation Slides
 
-We conluded the day with a small presentation on our findings, which can be found [here](https://github.com/hvkoops/wimir2018/blob/master/slides/wimir.pdf).
+We conlcuded the day with a small presentation on our findings, which can be found [here](https://github.com/hvkoops/wimir2018/blob/master/slides/wimir.pdf).
 
 
 # Links
