@@ -1,4 +1,5 @@
 ![WiMIR](https://wimir.files.wordpress.com/2016/11/img_7177.jpg?w=304 "WiMIR Logo")
+![ISMIR](https://dakini-pco.com/img/articles_a/1513262327.ismir2018logo_black_lon.smallg.jpg "ISMIR 2018 Logo")
 
 # wimir2018 - Modeling Repetition and Variation
 This repository holds information on the [Modeling Repetition and Variation Project](https://wimir.wordpress.com/2018/07/31/wimir-workshop-2018-project-guides/) at the [WiMIR 1st Annual Workshop](https://wimir.wordpress.com/wimir-workshop/) at the [19th International Society for Music Information Retrieval Conference](http://ismir2018.ircam.fr/)
