@@ -27,5 +27,6 @@ We conluded the day with a small presentation on our findings, which can be foun
 
 
 # Links
-http://ismir2018.ircam.fr/pages/events-wimir.html
-https://wimir.wordpress.com/2018/07/31/wimir-workshop-2018-project-guides/
+- http://ismir2018.ircam.fr/pages/events-wimir.html
+- https://wimir.wordpress.com/2018/07/31/wimir-workshop-2018-project-guides/
+
