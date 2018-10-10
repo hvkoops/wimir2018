@@ -24,7 +24,11 @@ In this workshop we discuss different strategies of instructing annotators and u
 
 # Presentation Slides
 
-We conlcuded the day with a small presentation on our findings, which can be found [here](https://github.com/hvkoops/wimir2018/blob/master/slides/wimir.pdf).
+We concluded the day with a small presentation on our findings, which can be found [here](https://github.com/hvkoops/wimir2018/blob/master/slides/wimir.pdf).
+
+# Discussion Notes
+
+During the workshop we had discussions on who to set up a good annotation task, and the nature of patterns in music. The notes on the discussions can be found [here as pdf](https://github.com/hvkoops/wimir2018/blob/master/notes/workshop_notes.pdf) or [here as plain text file](https://github.com/hvkoops/wimir2018/blob/master/notes/workshop_notes.txt).
 
 
 # Links
